@@ -33,3 +33,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# vim files and tags
+*.swp
+tags
+
+# Mac junks
+.DS_Store
